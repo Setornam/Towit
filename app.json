@@ -4,12 +4,12 @@
     "slug": "Towit",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/splashlogo.jpg",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splashlogo1.png",
+      "image": "./assets/splashlogo.jpg",
       "resizeMode": "contain",
-      "backgroundColor": "#004AAD"
+      "backgroundColor": "#FF914D"
     },
     "assetBundlePatterns": [
       "**/*"
